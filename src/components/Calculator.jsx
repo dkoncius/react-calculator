@@ -1,5 +1,4 @@
 import { useState, useRef, useEffect } from 'react'
-import '../styles/Calculator.css'
 
 export default function Calculator() {
   const [currentText, setCurrentText] = useState('')
